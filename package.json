@@ -1,0 +1,12 @@
+{
+  "name": "botcms-driver-instagram",
+  "main": "lib/index.js",
+  "dependencies": {
+    "bluebird": "^3.7.0",
+    "inquirer": "^7.0.0",
+    "instagram-private-api": "^1.30.0",
+    "lodash": "^4.17.15",
+    "mqtt": "^3.0.0",
+    "zlib": "^1.0.5"
+  }
+}
