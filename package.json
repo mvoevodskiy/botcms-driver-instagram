@@ -6,6 +6,7 @@
     "bluebird": "^3.7.0",
     "inquirer": "^7.0.0",
     "instagram-private-api": "^1.30.0",
+    "instagram_mqtt": "github:Nerixyz/instagram_mqtt",
     "lodash": "^4.17.15",
     "mqtt": "^3.0.0",
     "zlib": "^1.0.5"
