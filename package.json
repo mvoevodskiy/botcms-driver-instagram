@@ -8,7 +8,7 @@
     "inquirer": "^7.0.0",
     "instagram-private-api": "^1.30.0",
     "instagram_mqtt": "github:Nerixyz/instagram_mqtt",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "mqtt": "^3.0.0",
     "util": "^0.12.1",
     "zlib": "^1.0.5"
